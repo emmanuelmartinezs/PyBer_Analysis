@@ -29,12 +29,12 @@ To activate the **PythonData** environment on the command line, type `conda acti
 
 **macOS look similar to this:**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/tree/main/Resources/Images/Pyvr1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/Pyvr1.PNG?raw=true)
 
 
 **Windows look similar to this:**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/tree/main/Resources/Images/Pyvr2.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/Pyvr2.PNG?raw=true)
 
 
 At the Python prompt ( >>>), type import matplotlib and press Enter to import Matplotlib.
