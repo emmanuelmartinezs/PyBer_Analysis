@@ -49,6 +49,13 @@ To update Matplotlib for your development environment; with your PythonData envi
 
 In Jupyter Notebook, create a new file if one hasn't been created. Add the following code to a new cell.
 
+**Check the Version in Jupyter Notebook**
+Alternatively, you can check the version of Matplotlib in Jupyter Notebook. To do that, follow these directions
+
+To start Jupyter Notebook, navigate to the Class folder on your computer using the command line or Anaconda prompt.
+
+Activate the PythonData environment if it's not activated. Type and run `jupyter notebook`.
+
 **From Anaconda Terminal:**
 
 ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/jpvr1.PNG?raw=true)
@@ -61,12 +68,12 @@ In Jupyter Notebook, create a new file if one hasn't been created. Add the follo
 For more information about the latest Matplotlib version, see the Matplotlib documentation [Links to an external site.](https://matplotlib.org/3.1.0/index.html). 
 
 
-**Check the Version in Jupyter Notebook**
-Alternatively, you can check the version of Matplotlib in Jupyter Notebook. To do that, follow these directions
+**Matplot over Jupyter Note:**
+Here a Simple Example how it looks a `Matplotlib.pyplot` chart:
 
-To start Jupyter Notebook, navigate to the Class folder on your computer using the command line or Anaconda prompt.
+**Code and Graph**
 
-Activate the PythonData environment if it's not activated. Type and run `jupyter notebook`.
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
 
 
 
