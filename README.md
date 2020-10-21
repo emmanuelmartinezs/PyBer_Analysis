@@ -11,12 +11,42 @@ A Colorado Board of Elections employee has given you the following task to compl
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
-## Resources
+## Resources and Before Start Notes:
 
 * Data Source: election_results.csv
 * Software: Python 3.9, Visual Studio Code 1.50.0
 
 For more information, read the [`Documentation on Python data typess`](https://docs.python.org/3.6/library/stdtypes.html#numeric-types-int-float-complex). 
+
+## Check the Version of Matplotlib
+Before we get started on any project, it's good practice to make sure we have the latest version of the software we'll be using. Because we'll be using Matplotlib, let's check to make sure we have version 3.1.0 or greater
+Follow the instructions below for your operating system.
+
+**Check the Version on the Command Line in macOS or Windows**
+To begin, launch the command line and activate the PythonData environment.
+
+To activate the **PythonData** environment on the command line, type `conda activate PythonData`.
+
+**macOS look similar to this:**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/tree/main/Resources/Images/Pyvr1.PNG?raw=true)
+
+
+**Windows look similar to this:**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/tree/main/Resources/Images/Pyvr2.PNG?raw=true)
+
+
+At the Python prompt ( >>>), type import matplotlib and press Enter to import Matplotlib.
+
+Next, to check the version of Matplotlib, type `matplotlib.__version__` (there are two underscores before and after "version") and press Enter
+The output should be 3.1.0 or greater.
+
+**Extra Note:** 
+
+To update Matplotlib for your development environment; with your PythonData environment activated, type `conda install -c conda-forge matplotlib` at the command prompt and press Enter.
+
+
 
 ## Analysis and Challenges
 In this project, our final Python script will need to be able to deliver the following information when the script is run: 
