@@ -202,7 +202,7 @@ Here a Simple Example how it looks a `Matplotlib.pyplot` chart:
 
 
 
-## Deliverable 3: A written report for the PyBer analysis
+## Deliverable 3: A written report for the PyBer Analysis
 ### The analysis should contain the following::
 
 1. **Overview of the analysis:** Explain the purpose of the new analysis.
