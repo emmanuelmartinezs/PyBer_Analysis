@@ -77,7 +77,26 @@ Here a Simple Example how it looks a `Matplotlib.pyplot` chart:
 
 
 
-## Deliverable 1:  A ride-sharing summary DataFrame by city type
+**Annotate Charts Using the MATLAB Method**
+Here are a few methods that you can use to annotate charts using the MATLAB method:
+
+It is highly recommended to add x-axis and y-axis labels and a title to every graph you create so the viewer knows what it conveys. If you have more than one line or bar on a graph, making each line or bar stand out with a distinct color or line style is helpful, as is adding a legend for each dataset that the lines or bars represent. In addition, thoughtfully setting your x-axis and y-axis ranges can make the data more appealing.
+
+**Matplotlib Functions and Feature**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/MatplotlibFunc.PNG?raw=true)
+
+
+**Extra Note: Create a Vertical Bar Chart**
+
+To create a bar chart using the object-oriented interface method, use the `ax.bar()` function and add the x and y data parameters inside the parentheses.
+
+**Matplotlib Functions and Feature**
+
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/VertBarChartExample.PNG?raw=true)
+
+
+## Deliverable 1:  A Ride-Sharing Summary DataFrame by City Type
 ### Deliverable Requirements:
 
 1. The total number of rides for each city type is retrieved. 
