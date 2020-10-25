@@ -185,7 +185,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/2.1.PNG?raw=true)
 
 **2. A DataFrame was created using the `pivot()` function where the index is the "date," the columns are the city "type," and the values are the "fare."**
 
@@ -193,7 +193,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/2.2.PNG?raw=true)
 
 **3. A DataFrame was created using the `loc` method on the date range: 2019-01-01 through 2019-04-29.**
 
@@ -201,7 +201,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/2.3.PNG?raw=true)
 
 **4. A DataFrame was created using the `resample()` function in weekly bins and shows the sum of the fares for each week.**
 
@@ -209,7 +209,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/2.4.PNG?raw=true)
 
 **5. An annotated chart showing the total fares by city type is created and saved to the "analysis" folder.**
 
@@ -217,7 +217,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/2.5.PNG?raw=true)
 
 
 
