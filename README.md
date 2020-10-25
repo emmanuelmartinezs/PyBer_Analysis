@@ -115,7 +115,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/1.1.PNG?raw=true)
 
 **2. The total number of drivers for each city type is retrieved.**
 
@@ -123,7 +123,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/1.2.PNG?raw=true)
 
 **3. The sum of the fares for each city type is retrieved.**
 
@@ -131,7 +131,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/1.3.PNG?raw=true)
 
 **4. The average fare per ride for each city type is calculated.**
 
@@ -139,7 +139,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/1.4.PNG?raw=true)
 
 **5. The average fare per driver for each city type is calculated.**
 
@@ -147,7 +147,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/1.5.PNG?raw=true)
 
 **6. A PyBer summary DataFrame is created.**
 
@@ -155,7 +155,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/1.6.PNG?raw=true)
 
 **7. The PyBer summary DataFrame is formatted as shown in the example.**
 
@@ -163,7 +163,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 **Code and Image**
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/chartsample1.PNG?raw=true)
+![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/1.7.PNG?raw=true)
 
 
 
