@@ -241,4 +241,4 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 > 
 
 
-#### by Emmanuel Martinez
+#### PyBer Analysis Completed by Emmanuel Martinez
