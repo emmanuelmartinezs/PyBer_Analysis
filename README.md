@@ -247,17 +247,17 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 3. **Summary** 
 * Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types:
 
-    > From our analysis, we can predict that there are good opportunities to expand the business in rural and suburban cities, including hiring drivers to operate and explode business in rural and suburban cities.
-    
-    > The Urban cities fare is the highest and consistent.  
-    
-    > The Rural cities fare is the lowest of the other two city types (Urban and Suburban cities), in addition, fares never intersect.  Knowing that all fares never intersect, we can expand fares and increase business financial income to the company without affecting our rate.
+    > **1)** From our analysis, we can predict that there are good opportunities to expand the business in rural and suburban cities, including hiring drivers to operate and explode business in rural and suburban cities.
 
-    > % of Total Rides by City Type, 
-    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig6.png?raw=true)
-
-     > % of Total Drivers by City Type,
+    > % of Total Drivers by City Type,
     ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig7.png?raw=true)
+    
+    > **2)** The Urban cities fare is the highest and consistent, giving us great and new business opportunities to expand rides.  
+
+    > % of Total Fares by City Type, 
+    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig5.png?raw=true)
+    
+    > **3)** The Rural cities fare is the lowest of the other two city types (Urban and Suburban cities), in addition, fares never intersect.  Knowing that all fares never intersect, we can expand fares and increase business financial income to the company without affecting our rate.
 
      > Total Fare by City Type,
     ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true) 
