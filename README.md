@@ -235,14 +235,14 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
     > the Urban fares start at average of $1,800 and continued to increase as the months went by to ~$2,300.  The Suburban fares on the other hand started ~$1,000, the trend was not consistently profitable as the fare dropped in March and even lower at mid-April.  The Rural fares started at ~$200, consistent increase and drop of fares till the end of April.  One similarity of the three city types, is at the end of February, shows fare spike.
 
-    > PyBer Ride-Sharing Data (2019), 
-    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true)
+    > The PyBer summary DataFrame, 
+    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/1.7.PNG?raw=true)
 
-     > Ride Count Data (2019),
-    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig2.png?raw=true)
+     > A multiple-line chart of total fares for each city type,
+    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/2.5.PNG?raw=true)
 
-     > Driver Count Data (2019),
-    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig4.png?raw=true)      
+     > PyBer Ride-Sharing Data (2019), 
+    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true)      
 
 3. **Summary** 
 * Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types:
