@@ -233,6 +233,8 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 2. **Results** 
 * Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types:
 
+    > the Urban fares start at average of $1,800 and continued to increase as the months went by to ~$2,300.  The Suburban fares on the other hand started ~$1,000, the trend was not consistently profitable as the fare dropped in March and even lower at mid-April.  The Rural fares started at ~$200, consistent increase and drop of fares till the end of April.  One similarity of the three city types, is at the end of February, shows fare spike.
+
     > PyBer Ride-Sharing Data (2019), 
     ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true)
 
@@ -244,6 +246,12 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 3. **Summary** 
 * Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types:
+
+    > From our analysis, we can predict that there are good opportunities to expand the business in rural and suburban cities, including hiring drivers to operate and explode business in rural and suburban cities.
+    
+    > The Urban cities fare is the highest and consistent.  
+    
+    > The Rural cities fare is the lowest of the other two city types (Urban and Suburban cities), in addition, fares never intersect.  Knowing that all fares never intersect, we can expand fares and increase business financial income to the company without affecting our rate.
 
     > % of Total Rides by City Type, 
     ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig6.png?raw=true)
