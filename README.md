@@ -233,9 +233,9 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 2. **Results** 
 * Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types:
 
-    > The Suburban fares started ~$1,000, and the analysis was not profitable, fare dropped in March and in mid-April.  
-    > The Rural fares started at ~$200, the analysis shows fares increase and dropped till the end of April.  
-    > The Urban fares start with an average of $1,800 with a consistent increase to ~$2,300. 
+    > * The Suburban fares started ~$1,000, and the analysis was not profitable, fare dropped in March and in mid-April.  
+    > * The Rural fares started at ~$200, the analysis shows fares increase and dropped till the end of April.  
+    > * The Urban fares start with an average of $1,800 with a consistent increase to ~$2,300. 
     
     > The PyBer summary DataFrame, 
     ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/1.7.PNG?raw=true)
