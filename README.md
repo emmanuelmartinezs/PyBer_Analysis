@@ -234,25 +234,25 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 * Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types:
 
     > PyBer Ride-Sharing Data (2019), 
-    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/Fig1.png?raw=true)
+    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig1.png?raw=true)
 
      > Ride Count Data (2019),
-    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/Fig2.png?raw=true)
+    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig2.png?raw=true)
 
      > Driver Count Data (2019),
-    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/Fig4.png?raw=true)      
+    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig4.png?raw=true)      
 
 3. **Summary** 
 * Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types:
 
     > % of Total Rides by City Type, 
-    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/Fig6.png?raw=true)
+    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig6.png?raw=true)
 
      > % of Total Drivers by City Type,
-    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/Fig7.png?raw=true)
+    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig7.png?raw=true)
 
      > Rotal Fare by City Type,
-    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/Resources/Images/PyBer_fare_summary.png?raw=true) 
+    ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true) 
 
 
 #### PyBer Analysis Completed by Emmanuel Martinez
