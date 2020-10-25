@@ -251,7 +251,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
      > % of Total Drivers by City Type,
     ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/Fig7.png?raw=true)
 
-     > Rotal Fare by City Type,
+     > Total Fare by City Type,
     ![name-of-you-image](https://github.com/emmanuelmartinezs/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true) 
 
 
