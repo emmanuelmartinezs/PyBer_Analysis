@@ -222,7 +222,7 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 
 
 ## Deliverable 3: A written report for the PyBer Analysis
-### The analysis should contain the following::
+### The analysis should contain the following:
 
 1. **Overview of the analysis:** 
 ***Explain the purpose of the new analysis.***
@@ -239,3 +239,6 @@ To create a bar chart using the object-oriented interface method, use the `ax.ba
 ***Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.***
 
 > 
+
+
+### by Emmanuel Martinez
